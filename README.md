@@ -1,6 +1,8 @@
 # liferay-ideamaturing-portlet
 Idea Maturing Portlet for Liferay 6.2 (incl. ExpandoColumnCreator, SiteCreator and LinkedAssetCreator)
 
+Configuration: /docroot/WEB-INF/src/portlet.properties
+
 Build .war:
 
 1. Project has to be placed in a folder called "Ideenreifung-portlet" in the "*portlets* folder of a Liferay Plugins SDK.
